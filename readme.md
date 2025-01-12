@@ -2,7 +2,7 @@
 
 calculadora funcional e estilizada
 
-[<img src="./calculator.gif">]
+[<img src="./src/imagem/calculator.gif">]
 
 ## tecnologias usadas
 
